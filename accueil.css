@@ -5,3 +5,7 @@ h1{
     font-weight: bold;
     font-size: 1000%;
 }
+
+fieldset{
+    border: 1px solid black;
+}
