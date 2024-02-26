@@ -6,6 +6,7 @@
     <title>Document</title>
     <link rel="stylesheet" href="./bootstrap.css">
     <link rel="stylesheet" href="./bootstrap.js">
+    <link rel="stylesheet" href="./accueil.css">
 </head>
 <body>
     <nav class="navbar navbar-expand bg-body-tertiary">
@@ -40,6 +41,14 @@
         </div>
     </nav>
 
-    <div>login</div>
+    <form>
+        <fieldset class="w-75 mx-auto d-flex flex-column p-4">
+            <label for="username">Identifiant</label>
+            <input type="text" class="col-sm-5 col-xl-4">
+            <label for="password">Mot de passe</label>
+            <input type="text" class="col-sm-5 col-xl-4">
+            <input type="submit" class="col-sm-2 col-xl-3 mt-4">
+        </fieldset>
+    </form>
 </body>
 </html>
