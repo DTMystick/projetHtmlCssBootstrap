@@ -9,3 +9,7 @@ h1{
 fieldset{
     border: 1px solid black;
 }
+
+.card{
+    width: 33%;
+}
