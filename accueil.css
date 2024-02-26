@@ -1,9 +1,9 @@
 h1{
-    text-shadow: 5px 5px 5px #0064b2;
+    text-shadow: 3px 3px 5px #0064b2;
     color: #ffcc00;
     font-family: "pokemon solid.ttf";
     font-weight: bold;
-    font-size: 1000%;
+    font-size: 500%;
 }
 
 fieldset{
