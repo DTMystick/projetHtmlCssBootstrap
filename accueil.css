@@ -15,3 +15,23 @@ fieldset{
 .fontsize{
     font-size: 60%;
 }
+
+body{
+    background-color: #515b7b;
+    color: white;
+}
+
+nav{
+    background-color: #495371;
+    color: white;
+}
+
+.card{
+    background-color: #6e7dab;
+    color: white;
+}
+
+.list-group-item{
+    background-color: #66739a;
+    color: white;
+}
